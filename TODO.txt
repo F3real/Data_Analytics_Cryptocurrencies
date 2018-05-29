@@ -1,0 +1,10 @@
+1. Coin prices over time (with coin icon)
+2. Predict coin price in future
+3. Correlation between coin prices
+4. Scatter plots
+5. Dataset desribe
+
+Hard issues:
+1. Supervised learning
+2. Conclusion
+3. Explain clustering
