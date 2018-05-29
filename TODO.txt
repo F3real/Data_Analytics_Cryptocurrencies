@@ -8,3 +8,6 @@ Hard issues:
 1. Supervised learning
 2. Conclusion
 3. Explain clustering
+
+
+graph with all coins trend
