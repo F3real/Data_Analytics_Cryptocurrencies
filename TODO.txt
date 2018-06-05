@@ -3,8 +3,10 @@
 3. Correlation between coin prices		OK
 4. Scatter plots  			OK
 5. Dataset desribe
+6. Change order between clustering and exploratory analysis
 
 Hard issues:
 1. Supervised learning
-2. Conclusion
-3. Explain clustering
+2. Conclusion	**
+3. Explain clustering **
+4. Explain correlation **
