@@ -9,4 +9,4 @@ Hard issues:
 1. Supervised learning
 2. Conclusion	**
 3. Explain clustering **
-4. Explain correlation **
+4. Explain correlation **  say that the highest correlation is between bitcoin and others. Ripple is less correlated.
