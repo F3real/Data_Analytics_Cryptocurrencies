@@ -1,12 +1,12 @@
 1. Coin prices over time (with coin icon)		OK
-2. Predict coin price in future
+2. Predict coin price in future			OK
 3. Correlation between coin prices		OK
 4. Scatter plots  			OK
-5. Dataset desribe
-6. Change order between clustering and exploratory analysis
+5. Dataset desribe			OK
+6. Change order between clustering and exploratory analysis		OK
 
 Hard issues:
-1. Supervised learning
-2. Conclusion	**
-3. Explain clustering **
-4. Explain correlation **  say that the highest correlation is between bitcoin and others. Ripple is less correlated.
+1. Supervised learning	OK
+2. Conclusion			OK
+3. Explain clustering 	OK
+4. Explain correlation 	OK
